@@ -8,8 +8,8 @@ Git https clone link: https://github.com/Pcyuzuzo/WEEK4IP
 # Configuration
 The  website can be opened with any browser but **Google Chrome** is the best browser.
  # Knownbugs
- This website has no bugs but if any present you can access it by clicking this https://github.com/Celinemmbonekerrine4/Pizza-/issues
+ This website has no bugs but if any present you can access it by clicking this https://github.com/Pcyuzuzo/WEEK4IP/issues
  # Access link
- https://github.com/Celinemmbonekerrine4/Pizza-
+https://github.com/Pcyuzuzo/WEEK4IP
  # License
-Licensed under the  [MIT license](LICENSE).
+Licensed under the  [MIT license], Patience cyuzuzo, 2021.
