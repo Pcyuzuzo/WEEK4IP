@@ -1,8 +1,8 @@
-# Pizza Corner
+# Patience's Pizza Kitchen
 ## Author
-*Celine Mmbone*
+*Patience Cyuzuzo*
 # Description
- A web application where your customers order different sizes of pizzas with one or more toppings, where they order and get a free delivery at their location.<a href="https://celinemmbonekerrine4.github.io/Pizza-/">click here</a>
+ A web application where your customers order different sizes of pizzas with one or more toppings, where they order and get a free delivery at their location.<a href="https://pcyuzuzo.github.io/WEEK4IP/">click here</a>
  # Installation Instructions
 Git https clone link: https://github.com/Celinemmbonekerrine4/Pizza-.git
 # Configuration
